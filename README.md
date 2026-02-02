@@ -127,7 +127,6 @@ Included **"Prefab_Placer_Sample"** scene contains:
 
 MIT License - See [LICENSE](LICENSE) file for details.
 
-Copyright (c) 2025 Berkan Kaplan
 
 ## 💬 Support
 
