@@ -23,7 +23,7 @@ A free Unity Editor tool for placing prefabs on a grid with precision. Perfect f
 ### Unity Package Manager (Recommended)
 1. Open Package Manager (`Window > Package Manager`)
 2. Click `+` → `Add package from git URL`
-3. Enter: `https://github.com/yourusername/unity-tilemap-prefab-placer.git`
+3. Enter: `https://github.com/berkanozgur/Tilemap-Prefab-Placer.git`
 
 ### Manual Installation
 Sample project made in Unity 6, but it should work fine in previous versions.
