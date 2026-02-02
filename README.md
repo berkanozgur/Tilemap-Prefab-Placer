@@ -2,7 +2,7 @@
 
 A free Unity Editor tool for placing prefabs on a grid with precision. Perfect for level design, tile-based games, and any project requiring grid-aligned object placement.
 
-![Unity Version]([https://img.shields.io/badge/Unity-6000.0%2B-blue])
+![Unity Version](https://img.shields.io/badge/Unity-6000.0%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 
